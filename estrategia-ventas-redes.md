@@ -151,7 +151,7 @@ Conviene tener **WhatsApp Business** con catálogo (paquetes), respuestas rápid
 
 **Mes 1: base**
 - Unificar la marca: logo, nombre exacto y el mismo usuario en Instagram, Facebook, TikTok y Google.
-- Biografía de Instagram: *"3 generaciones construyendo piletas en zona norte · Desde 1940 · Garantía 25 años · Pilar / Del Viso / Derqui"* + link a WhatsApp.
+- Instagram **@natatoriosscifo**. Biografía sugerida: *"3 generaciones construyendo piletas en zona norte · Desde 1940 · Garantía 25 años · Pilar / Del Viso / Derqui"* + link a WhatsApp.
 - Completar el perfil de Google Business y pedir reseñas a los últimos 20 clientes.
 - Ordenar las fotos de piletas terminadas por estilo y armar las primeras 10 "Fichas de obra".
 - Juntar fotos viejas de la familia y de obras antiguas para la serie "Desde 1940".
