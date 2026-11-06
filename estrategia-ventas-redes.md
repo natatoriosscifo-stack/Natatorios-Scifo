@@ -186,7 +186,7 @@ Conviene tener **WhatsApp Business** con catálogo (paquetes), respuestas rápid
 1. **Biografía**: hoy no dice ni la zona, ni la trayectoria, ni la garantía, ni invita a escribir. Propuesta:
    > Construcción y reforma de piletas 🏊
    > 3 generaciones · Desde 1940 · Garantía escrita 25 años
-   > 📍 Zona Norte GBA (Pilar · Escobar · Exaltación) · Uruguay 🇺🇾
+   > 📍 Base en Pilar · Construimos en toda la Argentina 🇦🇷
    > 👇 Presupuesto sin cargo por WhatsApp
 2. **Categoría**: cambiar "Producto/servicio" por una más específica de construcción o contratista, y **mostrar la ubicación** en el perfil para aparecer en las búsquedas de la zona.
 3. **Llamado a la acción en cada publicación**: al final del video y en el texto, poner algo como *"Escribí PILETA y te pasamos el presupuesto"*. Se puede automatizar con respuestas automáticas a mensajes directos (ManyChat o la herramienta de Meta) que manden el link de WhatsApp.
@@ -194,3 +194,29 @@ Conviene tener **WhatsApp Business** con catálogo (paquetes), respuestas rápid
 5. **Historias destacadas**: sumar **Presupuesto** (cómo pedirlo), **Clientes** (capturas de reseñas y mensajes), **Desde 1940** (fotos de archivo) y **Uruguay** si se trabaja allá.
 6. **Pauta**: promocionar como anuncios los reels que ya funcionaron (32.400 y 24.600 visualizaciones). Ya está comprobado que gustan, y apuntando a la zona y a mensajes de WhatsApp el costo por consulta baja.
 7. **Medir**: anotar cada mes cuántas consultas por mensaje directo y WhatsApp vienen de Instagram. Es más importante que la cantidad de visualizaciones.
+
+---
+
+## 10. Cambio de alcance: toda la Argentina (decisión del 06/11/2026)
+
+Por ahora se trabaja en **todo el país** y no en Uruguay. Esto cambia algunas cosas del plan:
+
+**Biografía actualizada:**
+> Construcción y reforma de piletas 🏊
+> 3 generaciones · Desde 1940 · Garantía escrita 25 años
+> 📍 Base en Pilar · Construimos en toda la Argentina 🇦🇷
+> 👇 Presupuesto sin cargo por WhatsApp
+
+**Antes de salir con anuncios a todo el país, definir cómo se trabaja lejos de la base:**
+- **Obra mínima** para viajar (por ejemplo, solo construcciones nuevas desde cierto tamaño; las reformas chicas, solo cerca).
+- **Viáticos y traslados**: si van aparte o incluidos en el presupuesto, y cómo se explica.
+- **Equipo**: si viaja el equipo propio o se trabaja con cuadrillas locales supervisadas por Scifo.
+- **Visita inicial**: en lugares lejos de la base, primera evaluación por videollamada con fotos y medidas, y visita técnica cuando la obra está casi cerrada.
+
+**Temporadas distintas según la región:** en el Norte la temporada de pileta es más larga y se puede vender casi todo el año; en la Patagonia y Cuyo conviene construir en primavera y verano. La Costa Atlántica es un mercado de casas de veraneo, donde se construye en invierno para estrenar en verano.
+
+**Contenido:** mostrar obras hechas fuera de Buenos Aires con la ubicación ("📍 Córdoba", "📍 Mar del Plata") y responder en publicaciones la pregunta "¿Llegan a mi provincia? Sí 🇦🇷". Cada obra en el interior es la mejor prueba de que trabajan en todo el país.
+
+**Calificar las consultas:** la primera pregunta en WhatsApp tiene que ser **localidad y provincia**, para filtrar rápido y priorizar.
+
+Textos y segmentación de anuncios por región: ver `textos-instagram.md`.

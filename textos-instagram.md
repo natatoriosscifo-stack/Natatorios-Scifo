@@ -11,7 +11,7 @@
 2. *Foto de archivo (familia u obra antigua, sin caras)* → **"[3] generaciones de la familia Scifo en el oficio"**
 3. *Foto de obra en proceso (manos, hormigón)* → **"Cada obra la dirigimos nosotros, de principio a fin"**
 4. *Foto de pileta terminada* → **"Garantía escrita por [25] años"**
-5. *Fondo con el logo* → **"Zona Norte GBA y Uruguay 🇦🇷🇺🇾 · Presupuesto sin cargo 👉 WhatsApp en el perfil"**
+5. *Fondo con el logo* → **"Construimos en toda la Argentina 🇦🇷 · Presupuesto sin cargo 👉 WhatsApp en el perfil"**
 
 **Texto de la publicación:**
 > Somos Natatorios Scifo 🏊
@@ -21,7 +21,7 @@
 > ✅ Diseño y construcción de piletas de hormigón
 > ✅ Reformas, ampliaciones y revestimientos
 > ✅ Garantía escrita por [25] años
-> 📍 [Pilar · Escobar · Exaltación de la Cruz · Zona Norte] y Uruguay
+> 📍 Base en [Pilar], Buenos Aires · Construimos en toda la Argentina 🇦🇷
 >
 > ¿Querés tu pileta? Escribinos por WhatsApp (link en el perfil) y coordinamos una visita sin cargo.
 >
@@ -76,7 +76,7 @@
 
 **Configuración común:**
 - Objetivo: **Interacción → Mensajes → WhatsApp**
-- Ubicación: radio de 20–25 km alrededor de Pilar (incluye Escobar, Exaltación de la Cruz y Tigre norte)
+- Ubicación: un conjunto de anuncios por región (ver "Alcance nacional" al final). No usar "toda Argentina" junto en un solo conjunto.
 - Edad: 30 a 65 años
 - Ubicaciones: Reels y Stories de Instagram y Facebook
 - Formato: **usar el reel existente** (promocionarlo para no perder las visualizaciones y comentarios que ya tiene)
@@ -88,7 +88,7 @@
 **Texto principal:**
 > Tu pileta, hecha a medida y con garantía escrita por [25] años 🏊
 >
-> Somos Natatorios Scifo, [3 generaciones] construyendo piletas en Zona Norte.
+> Somos Natatorios Scifo, [3 generaciones] construyendo piletas en toda la Argentina 🇦🇷
 > ✅ Visita y presupuesto sin cargo
 > ✅ Diseño a medida de tu terreno
 > ✅ Un solo responsable de principio a fin
@@ -99,7 +99,7 @@
 **Botón:** Enviar mensaje de WhatsApp
 **Presupuesto:** USD 5–8 por día
 **Mensaje automático en WhatsApp:**
-> ¡Hola! Gracias por escribir a Natatorios Scifo 🏊 Para pasarte un presupuesto, ¿nos contás en qué localidad o barrio estás, qué medidas tenés en mente y si tenés una foto del lugar?
+> ¡Hola! Gracias por escribir a Natatorios Scifo 🏊 Para pasarte un presupuesto, ¿nos contás en qué localidad y provincia estás, qué medidas tenés en mente y si tenés una foto del lugar?
 
 ---
 
@@ -118,7 +118,7 @@
 **Botón:** Enviar mensaje de WhatsApp
 **Presupuesto:** USD 5–8 por día · **Activo de noviembre a mediados de diciembre**
 **Mensaje automático en WhatsApp:**
-> ¡Hola! Gracias por escribir a Natatorios Scifo 🔧 ¿Nos mandás 2 o 3 fotos de tu pileta y nos contás qué le pasa? Así te decimos qué necesita y coordinamos el diagnóstico sin cargo.
+> ¡Hola! Gracias por escribir a Natatorios Scifo 🔧 ¿En qué localidad y provincia estás? Mandanos 2 o 3 fotos de tu pileta y contanos qué le pasa. Así te decimos qué necesita y coordinamos el diagnóstico sin cargo.
 
 ---
 
@@ -144,3 +144,22 @@
 - Mirar **cuánto cuesta cada conversación iniciada** en cada anuncio.
 - Al que tenga el costo más bajo subirle el presupuesto; al que sea caro, cambiarle el video.
 - En WhatsApp, etiquetar cada consulta según de qué anuncio vino, para saber cuál trae obras de verdad (no solo mensajes).
+
+---
+
+## Alcance nacional: cómo segmentar los anuncios
+
+Separar el presupuesto en **conjuntos de anuncios por región**. Si se apunta a todo el país en uno solo, Meta gasta donde la publicidad sale más barata, que no es necesariamente donde hay clientes.
+
+| Conjunto | Zonas | % del presupuesto inicial |
+|---|---|---|
+| AMBA | GBA Norte, Oeste y Sur, CABA | 40% |
+| Centro | Córdoba (Capital, Sierras), Rosario y Santa Fe | 25% |
+| Costa Atlántica | Mar del Plata, Pinamar, Cariló | 15% |
+| Cuyo y Patagonia | Mendoza, San Juan, Neuquén | 10% |
+| Norte | Tucumán, Salta, NEA | 10% |
+
+Después de 2 semanas, pasar presupuesto a las regiones donde las consultas sean más baratas y se conviertan en visitas.
+
+**Agregar al texto de los anuncios para el interior:**
+> 🚚 Construimos en toda la Argentina con nuestro propio equipo.
