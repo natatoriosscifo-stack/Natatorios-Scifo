@@ -52,13 +52,27 @@ Hay que ubicarse **en el medio**: más confiable que el informal y más cercano 
 
 ## 3. Estrategias de venta en redes (opciones)
 
-### Opción A: "La obra en vivo" (Instagram + TikTok, orgánico)
-Es la estrategia que más rinde en este rubro. Consiste en mostrar el proceso real.
-- **Reels de antes y después de reformas**: es el contenido que más se comparte.
-- **Serie de una obra completa**, de la excavación a la primera zambullida, en 6 a 8 videos.
-- **El dueño a cámara**: "Soy Matías, tercera generación…". La cara genera confianza.
-- **Momento entrega**: la familia tirándose a la pileta, con permiso del cliente.
-- **Frecuencia**: 3 reels y 5 a 7 historias por semana.
+### Opción A: "Las piletas hablan solas" (Instagram + TikTok, orgánico y sin mostrar la cara)
+No hace falta que el dueño aparezca. La protagonista es la pileta terminada, y el proceso se muestra con manos, máquinas y equipo trabajando.
+
+**Con las fotos de piletas terminadas que ya tenés:**
+- **Carruseles "Ficha de obra"**: 4 a 6 fotos con medidas, zona, revestimiento y agregados. Por ejemplo: *"Pileta 8×4 · Pilar · Venecitas celestes · LED"*. Sirve como catálogo y hace que la gente pregunte "¿cuánto sale una así?".
+- **Reels con fotos animadas**: fotos con zoom lento, música y texto en pantalla. Se arman en minutos con CapCut o Canva.
+- **Galería por estilo**: "Piletas con solárium", "Para terrenos chicos", "Con formas", "Con deck". El cliente se identifica con su caso.
+- **Encuestas en historias**: "¿Cuál elegís, A o B?". Generan interacción y te dan datos de lo que busca la gente.
+- **Fotos viejas y familiares, como "Desde 1940"**: piletas de décadas atrás y fotos de archivo de la familia o de obras antiguas, sin caras. Cuentan la trayectoria sin que tengas que hablar a cámara.
+
+**Contenido nuevo que podés grabar sin aparecer:**
+- **Videos de la pileta terminada**: el agua al atardecer, las luces LED de noche, el sonido del agua o de una cascada. Una toma de 10 segundos con el celular estable alcanza.
+- **Tomas con drone** de piletas terminadas (se puede contratar por obra). Es el contenido que más impacta.
+- **El proceso, sin caras**: manos colocando revestimiento, la excavadora, el hormigón proyectado, el primer llenado. Con texto en pantalla queda muy bien ("Día 1 → Día 30").
+- **Voz en off o solo texto**: si no querés poner la voz, se usan subtítulos y música, o una voz generada con CapCut.
+- **Testimonios de clientes**: el cliente cuenta su experiencia a cámara (le da más credibilidad que el dueño). Si no quiere aparecer, se puede usar una captura de su mensaje de WhatsApp o de su reseña en Google.
+- **Visitas de "X años después"**: volvé a piletas que hiciste hace 10, 15 o 20 años y fotografialas. *"Esta pileta la construimos en 2008 y sigue así."* Demuestra la calidad y respalda la garantía de 25 años mejor que cualquier antes y después.
+
+**De ahora en adelante, empezá a juntar "antes y después":** en cada obra o reforma, sacá fotos y videos **desde el mismo ángulo** el primer día, a mitad de obra y el día de entrega. En 2 o 3 meses vas a tener tus primeros antes y después reales.
+
+- **Frecuencia**: 3 publicaciones (reels o carruseles) y 5 a 7 historias por semana.
 
 ### Opción B: Publicidad paga en Meta → WhatsApp
 - Campañas de **"Mensajes a WhatsApp"** segmentadas por radio de 15 a 25 km (Pilar, Del Viso, Escobar, Tigre norte), mayores de 30 años e intereses en casa, jardín y barrios cerrados.
@@ -102,11 +116,11 @@ Como hoy es noviembre, conviene vender ya **reformas y puestas a punto**, y empe
 
 | Día | Contenido |
 |---|---|
-| Lunes | Avance de obra (reel) |
-| Miércoles | Educativo / preguntas frecuentes (carrusel o reel) |
-| Viernes | Antes y después, o entrega (reel) |
-| Todos los días | Historias: el equipo trabajando, encuestas ("¿rectangular o con formas?") y respuestas a preguntas |
-| 1 vez al mes | Historia familiar / testimonio en video de un cliente |
+| Lunes | Pileta terminada: carrusel "Ficha de obra" o reel con fotos animadas |
+| Miércoles | Educativo / preguntas frecuentes (carrusel con texto) |
+| Viernes | Video de pileta terminada (atardecer, LED de noche, drone) o proceso sin caras |
+| Todos los días | Historias: el equipo trabajando (manos y máquinas), encuestas ("¿A o B?") y respuestas a preguntas |
+| 1 vez al mes | "Desde 1940" con fotos de archivo, "X años después" o testimonio de un cliente |
 
 ---
 
@@ -139,7 +153,10 @@ Conviene tener **WhatsApp Business** con catálogo (paquetes), respuestas rápid
 - Unificar la marca: logo, nombre exacto y el mismo usuario en Instagram, Facebook, TikTok y Google.
 - Biografía de Instagram: *"3 generaciones construyendo piletas en zona norte · Desde 1940 · Garantía 25 años · Pilar / Del Viso / Derqui"* + link a WhatsApp.
 - Completar el perfil de Google Business y pedir reseñas a los últimos 20 clientes.
-- Grabar material de las obras actuales.
+- Ordenar las fotos de piletas terminadas por estilo y armar las primeras 10 "Fichas de obra".
+- Juntar fotos viejas de la familia y de obras antiguas para la serie "Desde 1940".
+- Empezar a fotografiar cada obra desde el mismo ángulo para tener antes y después.
+- Visitar 3 o 4 piletas antiguas para la serie "X años después".
 
 **Mes 2: salir a vender**
 - Lanzar la campaña de Meta para reformas y puestas a punto de temporada.
