@@ -167,3 +167,30 @@ Conviene tener **WhatsApp Business** con catálogo (paquetes), respuestas rápid
 - Revisar qué anuncio trae consultas más baratas y poner más presupuesto ahí.
 - Arrancar la campaña "Construí en otoño" con preventa y descuento por reservar.
 - Lanzar el programa de referidos.
+
+---
+
+## 9. Diagnóstico de Instagram @natatoriosscifo (captura del 06/11/2026)
+
+**Datos:** 70 publicaciones · 1.176 seguidores · 795 seguidos · **195.600 visualizaciones en 30 días** · reels de 32.400 y 24.600 visualizaciones · historias destacadas: Antes y Después, Obras, Revestimientos, Prensa · web natatoriosscifo.com.ar · botones de WhatsApp y Facebook · Argentina y Uruguay.
+
+### Lo que está bien
+- **Mucho alcance**: casi 200.000 visualizaciones por mes es muy bueno para una cuenta de 1.176 seguidores. Los videos de piletas terminadas funcionan.
+- La publicación fijada (Capilla del Señor, Barrio La Macarena, 9×3,5 m, playa húmeda) ya es una "Ficha de obra": hay que repetir ese formato.
+- Ya tienen botón de WhatsApp, página web y una historia destacada de **Prensa**, que da autoridad.
+
+### El problema principal
+**Mucha gente ve los videos, pero pocos siguen la cuenta o consultan.** No falta alcance: falta transformar ese alcance en consultas.
+
+### Cambios recomendados
+1. **Biografía**: hoy no dice ni la zona, ni la trayectoria, ni la garantía, ni invita a escribir. Propuesta:
+   > Construcción y reforma de piletas 🏊
+   > 3 generaciones · Desde 1940 · Garantía escrita 25 años
+   > 📍 Zona Norte GBA (Pilar · Escobar · Exaltación) · Uruguay 🇺🇾
+   > 👇 Presupuesto sin cargo por WhatsApp
+2. **Categoría**: cambiar "Producto/servicio" por una más específica de construcción o contratista, y **mostrar la ubicación** en el perfil para aparecer en las búsquedas de la zona.
+3. **Llamado a la acción en cada publicación**: al final del video y en el texto, poner algo como *"Escribí PILETA y te pasamos el presupuesto"*. Se puede automatizar con respuestas automáticas a mensajes directos (ManyChat o la herramienta de Meta) que manden el link de WhatsApp.
+4. **Tres publicaciones fijadas**: (a) quiénes somos, con la trayectoria desde 1940 y la garantía de 25 años; (b) la mejor ficha de obra; (c) "Cómo trabajamos: de la visita a la entrega".
+5. **Historias destacadas**: sumar **Presupuesto** (cómo pedirlo), **Clientes** (capturas de reseñas y mensajes), **Desde 1940** (fotos de archivo) y **Uruguay** si se trabaja allá.
+6. **Pauta**: promocionar como anuncios los reels que ya funcionaron (32.400 y 24.600 visualizaciones). Ya está comprobado que gustan, y apuntando a la zona y a mensajes de WhatsApp el costo por consulta baja.
+7. **Medir**: anotar cada mes cuántas consultas por mensaje directo y WhatsApp vienen de Instagram. Es más importante que la cantidad de visualizaciones.
